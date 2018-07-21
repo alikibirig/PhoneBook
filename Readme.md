@@ -1,3 +1,4 @@
-<!-- features -->
-<!-- this is a phonebook
-it stores contacts -->
+### features 
+
+this is a phonebook
+it stores contacts
